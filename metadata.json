@@ -1,0 +1,8 @@
+{
+  "name": "Muslim Poster UZ",
+  "description": "A personal autonomous AI assistant for managing and growing the @designer_pro_muslim Telegram channel.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
